@@ -83,7 +83,7 @@
     display: flex;
     flex-direction: column;
     margin: .5rem;
-    /* padding: 1rem; */
+    padding: 1rem; 
     border-radius: 1rem;
     box-shadow: 0px 0px 3px 3px rgb(124, 117, 117);
     height: 400px;
@@ -101,7 +101,7 @@
     color: #fff;
     margin-bottom: .25rem;
 }
-
+/* 
 .pokemon .detalhes{
     background-color: rgb(255, 255, 255);
     width: 225px;
@@ -109,7 +109,7 @@
     margin-top: 10px;
     border-radius: 0px 0px 10px 10px;
    
-}
+} */
 
 .pokemon .detail {
     display: flex;
